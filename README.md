@@ -1,5 +1,5 @@
-# nginx-proxy-minio-cluster
-Nginx proxy MinIO cluster
+# Nginx proxy MinIO cluster
+
 
 ## Nginx vhost proxy for MinIO
 ```
